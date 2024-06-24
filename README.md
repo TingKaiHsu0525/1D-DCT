@@ -1,5 +1,6 @@
 <p>
   <a href="https://github.com/TingKaiHsu0525/1DCT/" target="_blank"> <img src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white> </a>
+  ![Static Badge](https://img.shields.io/badge/23.6%25-gray?label=Verilog&labelColor=gray&color=violet)
 </p>
 
 # 1DCT (Discrete Cosine Transform)
