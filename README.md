@@ -9,3 +9,7 @@
 *  Pre-sim檢測電路功能正常
 *  Primetime模擬更詳細的使用時間(Time)、功率(Power)
 
+## 結果
+*  Synthesis
+  * 面積(Area)
+  * ![image](https://github.com/TingKaiHsu0525/1DCT/assets/145333999/96741cf0-4f44-4ebb-8bbc-a6292dbeef30)
