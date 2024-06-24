@@ -18,3 +18,11 @@
    *    功率(Power)
      ![image](https://github.com/TingKaiHsu0525/1DCT/assets/145333999/46217a93-cc3e-4f59-b70c-f51ede26234b)
 
+*  Pre-sim
+  ![image](https://github.com/TingKaiHsu0525/1DCT/assets/145333999/c07c7355-2f5a-44a1-a452-266ca8be6b7d)
+
+*  Primetime
+   *    時間(Time)
+     ![image](https://github.com/TingKaiHsu0525/1DCT/assets/145333999/fa399603-f836-4a9e-87c1-8aff4c9cfb5e)
+   *    功率(Power)
+     ![image](https://github.com/TingKaiHsu0525/1DCT/assets/145333999/be65025e-7fd2-4ee8-b5a3-8d8c08f95b78)
