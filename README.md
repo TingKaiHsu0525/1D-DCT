@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/51.4%25-gray?label=Verilog&labelColor=gray&color=violet) ![Static Badge](https://img.shields.io/badge/31.6%25-gray?label=C&labelColor=gray&color=navy) ![Static Badge](https://img.shields.io/badge/17%25-gray?label=Jupyter&labelColor=gray&color=orange)
+![Static Badge](https://img.shields.io/badge/passing-gray?label=build&labelColor=gray&color=green) ![Static Badge](https://img.shields.io/badge/51.4%25-gray?label=Verilog&labelColor=gray&color=violet) ![Static Badge](https://img.shields.io/badge/31.6%25-gray?label=C&labelColor=gray&color=navy) ![Static Badge](https://img.shields.io/badge/17%25-gray?label=Jupyter&labelColor=gray&color=orange)
 
 # 1DCT (Discrete Cosine Transform) 
 由 N. Ahmed, T. Natarajan, K.R. Rao 等人提出離散餘弦轉換（Discrete Cosine Transform），改以實部運算代替 FT 中的虛部運算，藉此達到簡化目的，且轉換後的效果更好。
