@@ -10,6 +10,10 @@
 *  Primetime模擬更詳細的使用時間(Time)、功率(Power)
 
 ## 結果
+*  Modelsim 100測資
+
+  ![image](https://github.com/TingKaiHsu0525/1DCT/assets/145333999/441bd13e-16c8-445f-bc23-44abc58efcbf)
+
 *  Synthesis
    *   面積(Area)
    ![image](https://github.com/TingKaiHsu0525/1DCT/assets/145333999/96741cf0-4f44-4ebb-8bbc-a6292dbeef30)
