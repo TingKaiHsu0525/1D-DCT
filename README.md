@@ -2,7 +2,7 @@
 由 N. Ahmed, T. Natarajan, K.R. Rao 等人提出離散餘弦轉換（Discrete Cosine Transform），改以實部運算代替 FT 中的虛部運算，藉此達到簡化目的，且轉換後的效果更好。
 
 ## 語言
-https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+[C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ## 功能
 *  使用verilog實現1DCT計算
