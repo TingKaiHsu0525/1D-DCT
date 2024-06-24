@@ -13,3 +13,8 @@
 *  Synthesis
    *   面積(Area)
    ![image](https://github.com/TingKaiHsu0525/1DCT/assets/145333999/96741cf0-4f44-4ebb-8bbc-a6292dbeef30)
+   *    時間(Time)
+     ![image](https://github.com/TingKaiHsu0525/1DCT/assets/145333999/846629a0-0a25-4347-942b-394196b748fb)
+   *    功率(Power)
+     ![image](https://github.com/TingKaiHsu0525/1DCT/assets/145333999/46217a93-cc3e-4f59-b70c-f51ede26234b)
+
