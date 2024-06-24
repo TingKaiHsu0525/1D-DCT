@@ -2,7 +2,8 @@
   <a href="https://github.com/TingKaiHsu0525/1DCT/" target="_blank"> <img src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white> </a>
 </p>
 
-# 1DCT (Discrete Cosine Transform) ![Static Badge](https://img.shields.io/badge/23.6%25-gray?label=Verilog&labelColor=gray&color=violet) ![Static Badge](https://img.shields.io/badge/14.5%25-gray?label=C&labelColor=gray&color=navy)
+# 1DCT (Discrete Cosine Transform) ![Static Badge](https://img.shields.io/badge/61.9%25-gray?label=Jupyter&labelColor=gray&color=orange)
+ ![Static Badge](https://img.shields.io/badge/23.6%25-gray?label=Verilog&labelColor=gray&color=violet) ![Static Badge](https://img.shields.io/badge/14.5%25-gray?label=C&labelColor=gray&color=navy)
 
 由 N. Ahmed, T. Natarajan, K.R. Rao 等人提出離散餘弦轉換（Discrete Cosine Transform），改以實部運算代替 FT 中的虛部運算，藉此達到簡化目的，且轉換後的效果更好。
 
