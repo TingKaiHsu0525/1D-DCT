@@ -19,6 +19,7 @@
      ![image](https://github.com/TingKaiHsu0525/1DCT/assets/145333999/46217a93-cc3e-4f59-b70c-f51ede26234b)
 
 *  Pre-sim
+
   ![image](https://github.com/TingKaiHsu0525/1DCT/assets/145333999/c07c7355-2f5a-44a1-a452-266ca8be6b7d)
 
 *  Primetime
