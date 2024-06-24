@@ -1,5 +1,5 @@
 <p>
-  <a> <img src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white> </a>
+  <a href="https://github.com/TingKaiHsu0525/1DCT/" target="_blank"> <img src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white> </a>
 </p>
 
 # 1DCT (Discrete Cosine Transform)
